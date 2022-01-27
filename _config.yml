@@ -69,12 +69,12 @@ disqus:
 analytics:
   enabled: false                                        # Set true to enable analytics
   google:
-  tracking_id: your-google-tracking-id
+    tracking_id: your-google-tracking-id
 
 
 ### Defaults for collections ###
 defaults:
-  - scope:
+    - scope:
       path: ""
       type: "projects"
     values:
