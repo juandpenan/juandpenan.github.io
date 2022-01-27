@@ -1,9 +1,8 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Juan Diego Peña
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Ingeniero Mecanico, Apasionado por la robotica
+                      :space_invader:
 baseurl             : ""                                  # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : juandpenan/juandpenan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -26,16 +25,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Juan Diego
-  image             : https://i.imgur.com/tiPNxsn.jpg
+  image             : https://i.imgur.com/qSKqL7c.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : juan97pena@gmail.com
 #  facebook          : your_username
-  github            : your_username
+  github            : juandpenan
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : jdpn
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -49,7 +48,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+#permalink: /blog/:title
 
 
 ### Collections ###
