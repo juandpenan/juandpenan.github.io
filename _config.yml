@@ -54,7 +54,7 @@ author:
 ### Collections ###
 collections:
   projects:
-    output: false #true
+    output: true
     permalink: /projects/:name
 
 
